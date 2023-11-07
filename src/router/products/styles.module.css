@@ -1,0 +1,45 @@
+.Catalogo {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .product {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .product img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Estilos adicionales según sea necesario */
+  
